@@ -1,0 +1,7 @@
+[
+  {
+    "id": "locator-task-01",
+    "embedding": [0.12, -0.43, 0.88, 0.05],
+    "text": "PageContext: UserLoginPage | Element: Primary Submit Button | State: <button id=\"old-submit-btn\" class=\"btn-primary\">Submit</button>"
+  }
+]
